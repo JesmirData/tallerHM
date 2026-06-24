@@ -1,7 +1,7 @@
 # Taller: Hola, Mundo con Git y GitHub
 **Comunidad FIUBA — Martes 23 de junio de 2026**
 
-Este repositorio es el espacio compartido del taller. Cada participante hace su aporte y lo sube aquí.
+Este repositorio es el espacio compartido del taller. Cada participante hace su aporte y lo sube aquí. Aporte Jesmir
 
 ## ¿Qué hay en este repo?
 
